@@ -1,0 +1,44 @@
+Qualities belonging solely to Gryffindor:
+*Courageous
+*Sociable
+*Proud
+
+Qualities belonging solely to Ravenclaw:
+*Studious
+
+Qualities belonging solely to Hufflepuff:
+*Timid
+*Shy
+*Altruistic
+
+Qualities belonging solely to Slytherin:
+*Ambitious
+*Cunning
+*Evil
+*Braggart
+*Vain
+*Selfish
+*Manipulative
+*Treacherous
+
+
+Shared Qualities:
+
+Brilliant: Slytherin or Ravenclaw
+Good: Gryffindor, Ravenclaw, or Hufflepuff
+Intelligent: Gryffindor or Ravenclaw
+Resourceful: Gryffindor or Ravenclaw
+Humble: Ravenclaw or Hufflepuff
+Honest: Gryffindor, Ravenclaw, or Hufflepuff
+Loyal: Gryffindor, Ravenclaw, or Hufflepuff
+Risk-Taker: Slytherin or Gryffindor
+Risk-Averse: Ravenclaw or Hufflepuff
+
+
+SLYTHERIN: Ambitious, Cunning, Evil, Braggart, Vain, Selfish, Manipulative, Treacherous, Risk-Taker
+
+GRYFFINDOR: Courageous, Sociable, Good, Intelligent, Resourceful, Honest, Proud, Loyal, Risk-Taker
+
+RAVENCLAW: Good, Studious, Intelligent, Resourceful, Brilliant, Honest, Loyal, Humble, Risk-Averse
+
+HUFFLEPUFF: Timid, Shy, Good, Humble, Altruistic, Honest, Loyal, Risk-Averse
